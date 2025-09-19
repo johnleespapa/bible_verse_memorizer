@@ -1,0 +1,6 @@
+# requirements.txt
+Flask==3.0.3
+Werkzeug==3.0.3
+# (옵션) 운영 환경에서 사용할 경우:
+# gunicorn==21.2.0
+
