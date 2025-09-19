@@ -1,0 +1,296 @@
+{
+  "users": {
+    "_migrated": {
+      "pw_hash": null,
+      "sessions": [],
+      "settings": {
+        "numQuestions": 30,
+        "enabledQTypes": [
+          "identify_ref",
+          "cloze",
+          "multiple_choice",
+          "continue_verse",
+          "multiple_choice_text"
+        ]
+      },
+      "verseScores": {}
+    },
+    "liza183": {
+      "pw_hash": "scrypt:32768:8:1$YCuKIc9AVyNbe6EV$73c11c71cdd8f01981d51bbc2cd0b8bdd41a30cab344641a600e8048bebc5e9f13357dc3951a7e3e5db52004b99ee7a733db8ceb3b4426a546d037c0a3f95d4c",
+      "sessions": [
+        {
+          "id": "sess_1758294709830_170818",
+          "dateISO": "2025-09-19T15:11:49.830Z",
+          "total": 10,
+          "correct": 6,
+          "skip": 1,
+          "score": 6,
+          "originSessionId": null,
+          "details": [
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "시편",
+              "chapter": 18,
+              "verse": 3,
+              "text": "주님은 저의 반석, 저의 산성, 저의 구원자 저의 하느님",
+              "correct": false,
+              "skipped": true
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "마태",
+              "chapter": 11,
+              "verse": 28,
+              "text": "고생하고 무거운 짐을 진 너희는 모두 나에게 오너라.",
+              "correct": true,
+              "skipped": false
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "마태",
+              "chapter": 5,
+              "verse": 8,
+              "text": "행복하여라, 마음이 깨끗한 사람들! 그들은 하느님을 볼 것이다.",
+              "correct": true,
+              "skipped": false
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "필리",
+              "chapter": 4,
+              "verse": 4,
+              "text": "주님 안에서 늘 기뻐하십시오.",
+              "correct": true,
+              "skipped": false
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "마태",
+              "chapter": 4,
+              "verse": 4,
+              "text": "사람은 빵만으로 살지 않고, 하느님의 입에서 나오는 모든 말씀으로 산다.",
+              "correct": false,
+              "skipped": false
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "요한",
+              "chapter": 6,
+              "verse": 20,
+              "text": "나다. 두려워하지 마라.",
+              "correct": true,
+              "skipped": false
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "로마",
+              "chapter": 1,
+              "verse": 16,
+              "text": "나는 복음을 부끄러워하지 않습니다.",
+              "correct": true,
+              "skipped": false
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "1코린",
+              "chapter": 13,
+              "verse": 2,
+              "text": "나에게 사랑이 없으면 나는 아무것도 아닙니다.",
+              "correct": true,
+              "skipped": false
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "1코린",
+              "chapter": 16,
+              "verse": 13,
+              "text": "용기를 내십시오. 힘을 내십시오.",
+              "correct": false,
+              "skipped": false
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "book": "이사야",
+              "chapter": 43,
+              "verse": 1,
+              "text": "내가 지명하여 너를 불렀으니 너는 나의 것이다",
+              "correct": false,
+              "skipped": false
+            }
+          ],
+          "questionsDump": [
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "시편",
+                "chapter": 18,
+                "verse": 3,
+                "text": "주님은 저의 반석, 저의 산성, 저의 구원자 저의 하느님"
+              },
+              "prompt": "시편 18,3 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "마태",
+                "chapter": 11,
+                "verse": 28,
+                "text": "고생하고 무거운 짐을 진 너희는 모두 나에게 오너라."
+              },
+              "prompt": "마태 11,28 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "마태",
+                "chapter": 5,
+                "verse": 8,
+                "text": "행복하여라, 마음이 깨끗한 사람들! 그들은 하느님을 볼 것이다."
+              },
+              "prompt": "마태 5,8 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "필리",
+                "chapter": 4,
+                "verse": 4,
+                "text": "주님 안에서 늘 기뻐하십시오."
+              },
+              "prompt": "필리 4,4 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "마태",
+                "chapter": 4,
+                "verse": 4,
+                "text": "사람은 빵만으로 살지 않고, 하느님의 입에서 나오는 모든 말씀으로 산다."
+              },
+              "prompt": "마태 4,4 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "요한",
+                "chapter": 6,
+                "verse": 20,
+                "text": "나다. 두려워하지 마라."
+              },
+              "prompt": "요한 6,20 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "로마",
+                "chapter": 1,
+                "verse": 16,
+                "text": "나는 복음을 부끄러워하지 않습니다."
+              },
+              "prompt": "로마 1,16 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "1코린",
+                "chapter": 13,
+                "verse": 2,
+                "text": "나에게 사랑이 없으면 나는 아무것도 아닙니다."
+              },
+              "prompt": "1코린 13,2 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "1코린",
+                "chapter": 16,
+                "verse": 13,
+                "text": "용기를 내십시오. 힘을 내십시오."
+              },
+              "prompt": "1코린 16,13 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            },
+            {
+              "qtype": "continue_verse",
+              "subj": true,
+              "verse": {
+                "book": "이사야",
+                "chapter": 43,
+                "verse": 1,
+                "text": "내가 지명하여 너를 불렀으니 너는 나의 것이다"
+              },
+              "prompt": "이사야 43,1 — 구절 전체를 입력하세요:",
+              "options": null,
+              "correctIndex": null,
+              "maskedHtml": null
+            }
+          ],
+          "type": "exam"
+        }
+      ],
+      "settings": {
+        "numQuestions": 10,
+        "enabledQTypes": [
+          "continue_verse"
+        ]
+      },
+      "verseScores": {
+        "시편|18|3": 1,
+        "마태|11|28": 0,
+        "마태|5|8": 0,
+        "필리|4|4": 0,
+        "마태|4|4": 1,
+        "요한|6|20": 0,
+        "로마|1|16": 0,
+        "1코린|13|2": 0,
+        "1코린|16|13": 1,
+        "이사야|43|1": 1
+      }
+    }
+  }
+}
