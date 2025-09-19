@@ -2126,4 +2126,4 @@ def get_verses():
 if __name__ == "__main__":
     # 개발 편의: 시작 시 한번 더 로드(환경변수 경로 변경 반영)
     load_server_verses_file()
-    app.run(host="127.0.0.1", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=10000, debug=True)
